@@ -1,20 +1,17 @@
-# {{ NAME OF TEXT }}
+# Charles Hoole (1610-1667) _Childrens Talke_
 
-{{ describe what is being done, the process being followed, and who is involved in the work }}
+Digitisation effort of both the English-Latin and Greek-Latin editions of Charles Hoole _Childrens Talke_
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
-## Contributors
-
-* {{ list of people who have contributed to this repo }}
-
 ## Source
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+*English-Latin: _Childrens talke, English & Latine divided into several clauses, wherein the prop[r]iety of both languages is kept..._, London, (1659) via University of Michigan Library and [Early English Books Text Creation Partnership](http://name.umdl.umich.edu/A44372.0001.001)
+*Ancient Greek-Latin: _ΠΑΙΔΟΛΟΓΙΑΙ: ΠΑΙΔΟΛΟΓΙΔΙΑ: Confabulatiunculae Graeco-Latinae_ trans. W. Jackson, Oxford, 1666 via the British Library and [Google Books](https://books.google.co.uk/books?id=BNplAAAAcAAJ&source=gbs_navlinks_s)
 
 ## Progress
 
-{{ indicate progress, or remove entire section if done }}
+Currently doing: transcription and mark-up.
 
 ## License
 
