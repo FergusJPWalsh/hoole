@@ -1,0 +1,392 @@
+dialogue.line.speaker (.0)/text (.1)
+01.001.00 Aemilia
+01.001.01 Batte fili, mi fili, mi Batte!
+01.002.00 Battus
+01.002.01 Quid vis?
+01.003.00 Aemilia
+01.003.01 Est tempus surgendi.
+01.004.00 Battus
+01.004.01 Sine me, obsecro, adhuc paululum requiescere.
+01.005.00 Aemilia
+01.005.01 Dormitum est satis. Surge, mi fili!
+01.006.00 Battus
+01.006.01 Quot horas dormivi?
+01.007.00 Aemilia
+01.007.01 Ferme decem, nimium diu.
+01.008.00 Battus
+01.008.01 Utinam ad satietatem dormire!
+01.009.00 Aemilia
+01.009.01 Aperi tantum oculos!
+01.010.00 Battus
+01.010.01 Non possum, Hercle.
+01.011.00 Aemilia
+01.011.01 Cerne quam sudum est foris.
+01.012.00 Battus
+01.012.01 Quid me attinet surdum sit an nebulosum?
+01.013.00 Aemilia
+01.013.01 En, sol te etiam invist.
+01.014.00 Battus
+01.014.01 An ortus iam? 
+01.015.00 Aemilia
+01.015.01 Iamdudum.
+01.016.00 Battus
+01.016.01 Aegre possum profligare soporem.
+01.017.00 Aemilia
+01.017.01 Erige corpus modo somnus abscesserit.
+01.018.00 Battus
+01.018.01 Ubi est indusium?
+01.019.00 Aemilia
+01.019.01 Eccum, sub cervicali iacet.
+01.020.00 Battus
+01.020.01 Abscede, mater, ego surgam ilico.
+01.021.00 Aemilia
+01.021.01 Noli redormiscere!
+01.022.00 Battus
+01.022.01 Non faciam, abi modo.
+01.023.00 Aemilia
+01.023.01 Eo.
+02.001.00 Cornelius
+02.001.01 Mater, quota est hora?
+02.002.00 Dorothea
+02.002.01 Quid tu ais? Sicine doctus es?
+02.003.00 Cornelius
+02.003.01 Quid sim doctus?
+02.004.00 Dorothea
+02.004.01 Non me salutare debeas antea?
+02.005.00 Cornelius
+02.005.01 Bonum mane.
+02.006.00 Dorothea
+02.006.01 Et tibi. Nunc quaere, quid vis?
+02.007.00 Cornelius
+02.007.01 Dic mihi, amabo, mea mater.
+02.008.00 Dorothea
+02.008.01 Quid vis ut dicam?
+02.009.00 Cornelius
+02.009.01 Quota sit hora?
+02.010.00 Dorothea
+02.010.01 Instat sexta.
+02.011.00 Cornelius
+02.011.01 Sonuit an nondum?
+02.012.00 Dorothea
+02.012.01 Non opinor sonuisse.
+02.013.00 Cornelius
+02.013.01 Utinam id sit verum.
+02.014.00 Dorothea
+02.015.01 Equidem non audivi tonitum.
+02.016.00 Cornelius
+02.016.01 Male metuo praeceptoris manum.
+02.017.00 Dorothea
+02.017.01 Potes praevertere magistrum, si non cesses.
+02.018.00 Cornelius
+02.018.01 Ita mihi faciendum censeo.
+02.019.00 Dorothea
+02.019.01 At ita, ut ne impexus hince abeas aut illotus.
+02.020.00 Cornelius
+02.020.01 Ubi rediere, tum lavabo.
+02.021.00 Dorothea
+02.021.01 Immo, nunc lava potius!
+02.022.00 Cornelius
+02.022.01 Obsecro te, mea mater, sine me nunc abire ne vapulem.
+02.023.00 Dorothea
+02.023.01 Vade tuo periculo.
+03.001.00 Evaldus
+03.001.01 Unde venis tam sero?
+03.001.02 Heus, tu!
+03.002.00 Franciscus
+03.002.01 Ex nostra domo.
+03.003.00 Evaldus
+03.003.01 Annon audivisti sonitum campanae?
+03.004.00 Franciscus
+03.004.01 Non potui audire, praeceptor observande.
+03.005.00 Evaldus
+03.005.01 Quid? Ne?
+03.005.02 Num obsurduisti?
+03.006.00 Franciscus
+03.006.01 Nequaquam.
+03.007.00 Evaldus
+03.008.01 Qui non potuisti ergo audire campanam?
+03.009.00 Franciscus
+03.010.01 Altum dormiebam.
+03.011.00 Evaldus
+03.011.01 Quid ego audio?
+03.012.00 Franciscus
+03.012.01 Nec mater expergefecerat me.
+03.013.00 Evaldus
+03.013.01 Non tu potes expergisci ni susciteris?
+03.014.00 Franciscus
+03.014.01 Non indignaberis, si verum fatear?
+03.015.00 Evaldus
+03.016.01 Non, nisi falsum proferas.
+03.017.00 Franciscus
+03.018.01 Nisi quisquam suscitet me, non evigilem, credo, ante meridiem; tam suaviter dormio.
+03.019.00 Evaldus
+03.019.01 Surges posthac maturius?
+03.020.00 Franciscus
+03.020.01 Dabo equidem operam.
+03.021.00 Evaldus
+03.021.01 Ita facito.
+03.021.02 Hodie ignoscitur tibi, quia verum confessus es.
+03.021.03 Abi hinc ad sodales tuos.
+03.022.00 Franciscus
+03.022.01 Ago tibi gratias immortales, reverendissime praeceptor.
+
+ Gerardus, Henricus condiscipuli
+ Gerardus
+ Cede paululum.
+ Henricus
+ Non istic habes satis loci?
+ Gerardus
+ Minime.
+ Henricus
+ Nec ego quicquam cedere possum.
+ Gerardus
+ Ubi sedebo autem?
+ Henricus
+ Ubi vis.
+ Gerardus
+ Hic sedeo percommode.
+ Henricus
+ At ego te admoneo ut abscedas prope de meo sinu.
+ Gerardus
+ At tu mihi demonstra ubi alioqui sedeam.
+ Henricus
+ Ubi sedent canes, sedeto.
+ Gerardus
+ Ubi vero sedent canes?
+ Henricus
+ In clunibus.
+ Gerardus
+ Itidem ego facio.
+ Henricus
+ Scis vero quomodo sedeas?
+ Gerardus
+ Humanitus.
+ Henricus
+ Et scis ubi?
+ Gerardus
+ In tuo gremio.
+ Henricus
+ At nunc mihi iaces supinus.
+ Gerardus
+ Hoc tu mihi impune nunquam feceris.
+ Henricus
+ Flocci non facio tuas minas.
+ Gerardus
+ Ne scis nimium procax.
+ Henricus
+ Inepta quid vis, virum invenies.
+ Gerardus
+ Salve, pugil invicte!
+ Henricus
+ At tu mihi pugnum impune non pignes. Hoc te scire etiam volo!
+ Gerardus
+ Enimvero nisi praeceptorem metuerem, iamdudum pugnus in mala haereret!
+ Henricus
+ Si quid vis, post horam octavam evoca.
+ Gerardus
+ Evoco, veni!
+ Henricus
+ Ientaculum volo antea sumere ut robustior sim. Iam diu te oportet expectare.
+ Gerardus
+ Scibam bullas esse quas iactabs!
+ Henricus
+ Insane, nos hic pugnemus iisdem studiis consecrati, iisdem virtutum praeceptis imbuti? Apage te cum tam frivolis fabulis!
+ Gerardus
+ Nunc te virum iudico generosum et invictum.
+
+ I. Quis istic est strepitus, puer, quasi dominus absit?
+ L. Hi duo contendunt.
+ I. De qua re contenditis, vos iuvenes?
+ L. Non vult mihi reddere calamum meum quem eripuit. 
+ I. Si non actutum facit, expectet me cum virga.
+ L. Dixit se velle fugere?
+ I. Vos eum retinere et adducite ad me.
+ L. Ecce mordiens apprehendit manicam meam.
+ I. Ego illi etiam dentes istos omnes evellam, si non dimittit ilico. 
+ L. Scelestus puer est et scalpit unguibus.
+ I. Curnam tu es tam sceleritus puer?
+ N. Quid feci?
+ I. Pennam eripuisti illi puero.
+ N. Cur etiam mihi dedit nomen ignominiosum?
+ I. Non faciet amplius.
+ N. Ne ego.
+ I. Dixisti te velle aufugere.
+ N. Stultus est qui se caedi patitur dum liceat fugere.
+ I. Et mordicus apprehendisti manicam illius?
+ N. Manum captabam, subduxit manum, cepi manicam.
+ I. Adeo scelestus et mordax?
+ N. Et mures tenentium se manus impetunt. Non mihi liceat quod musculis?
+ L. At mures saepenumero innoxii sunt quando capiuntur.
+ N. Et ego innoxius. Nam quod eripueram confestim redidi.
+ L. Metu virgarum scilicet.
+ N. Non est deplorate malus qui a maleficio metu mali abstinet.
+ L. \edtext{Lalus}{\Afootnote{Sic}} es.
+ N. Placet, bone praeceptor, dum ne sim caco-lalus.
+
+
+ O. Non habes cultellum quem des mihi commodato?
+ P. Habeo equidem, sed quem tibi accomodem non habeo.
+ O. Quamobrem?
+ P. \edtext{Novicius}{\Afootnote{Novitius, LL spelling}} est quem habeo; non revertetur si patiar evagari.
+ O. Noli timere. Ego tantisper hic resistam dum utor.
+ P. Non do.
+ O. Forsan habes quem nuper amisi?
+ P. Amisisti scilicet cultellum?
+ O. Factum.
+ P. Qualis erat?
+ O. Vis audire qualis fuerat?
+ P. Volo.
+ O. Parvulus erat et hebes.
+ P. Audio.
+ O. Obtusam habebat cuspidem.
+ P. Quid praeterea?
+ O. \edtext{Capulum}{\Afootnote{ML -um, CL -us}} rubrum aeneis distinctum claviculis.
+ P. Quid narras?
+ O. Superne foramen.
+ P. Tuus per omnia similis fuit ei quem ego habeo.
+ O. Sine, quaeso, inspiciam.
+ P. Vide.
+ O. Ostende totum.
+ P. Age contemplare ad satietatem.
+ O. Dic amabo, ubi nactus istum cultellum?
+ P. Cur id quaeritas?
+ O. Mihi opus est quaesito.
+ P. Mihi non opus est responso.
+ O. Dic absolute unde habes.
+ P. Reperi.
+ O. Antequam perderetur, adde.
+ P. Antequam permerderetur, tu inque.
+ O. Iubes me coniectare tamen?
+ P. Concedo.
+ O. Emisti?
+ P. Ita est, revera.
+ O. De quo, amabo?
+ P. De iuvene quodam mercatore.
+ O. Furtivus est, me Hercule!
+ P. Nihil ad me attinet.
+ O. Audes tu vero mercari res furtivas?
+ P. Sine discrimine qualibet.
+ O. Nihilo es melior quam fur.
+ P. Ne sim.
+ O. Sed cur tu dicis hunc esse cultrum furtivum?
+ P. Meus fuit.
+ O. Fuit, credo, tuus.
+ P. Sed nunc est meus.
+ O. Ergo tibi suadeo ut mihi reddas meum.
+ P. Sic a me non auferes.
+ O. Quiesce, ilico faxo ut reddas ingratiis.
+ P. Quid facies?
+ O. Ad praeceptorem ibo, illi rem pandam ordine. Is te roget restituere.
+ P. At ego, mox petita venia, manebo domi nec in scholam venturus tum hodie.
+
+ Quirinus discipulus, Reynerus praeceptor, Sebastianus discipulus
+ Quirinus
+ Colendissime praeceptor, huic quaeso impera ut mihi reddat cultrum meum.
+ Reynerus
+ Ecquid habes, heus tu, quod est huius?
+ Sebastianus
+ Non habeo.
+ Reynerus
+ Quam mihi proterve respondes.
+ Sebastianus
+ Quam proterve vero? Nihil habere me dico.
+ Reynerus
+ Non tu cultrum alienum habes?
+ Sebastianus
+ Non habeo sane.
+ Reynerus
+ Nec habes ullum cultrum.
+ Sebastianus
+ Habeo parvulum. Is meus est.
+ Reynerus
+ Ubi est?
+ Sebastianus
+ Eccum in vagina.
+ Reynerus
+ Ostende mihi.
+ Sebastianus
+ Non abnuo.
+ Reynerus
+ Ubi tu nactus es hunc cutellum?
+ Sebastianus
+ Possedi ferme totum mensem.
+ Reynerus
+ Non istud quaerito. Sed unde habes?
+ Sebastianus
+ Ab institore iuvene. Is vendidit mihi.
+ Reynerus
+ Quanti?
+ Sebastianus
+ Quadrante Brabantico.
+ Reynerus
+ Melius est culter quam pretium quod dedisti.
+ Sebastianus
+ Bonum feci mercimonium si ita est ut tu dicis.
+ Reynerus
+ At hic suum esse contendit.
+ Sebastianus
+ Non ita est. Meus est.
+ Reynerus
+ Si quid perdidit, inquirat.
+ Sebastianus
+ Ego nihil eripui quod illius sit aut fuerit.
+ Reynerus
+ Vis mihi acquiescere?
+ Sebastianus
+ Si mihi non fiat iniuria, volo.
+ Reynerus
+ Nolo contentionem inter vos esse.
+ Sebastianus
+ Sed ego cum nemine contedno.
+ Reynerus
+ Ergo restitue huic cultrum suum.
+ Sebastianus
+ Non recuso si mihi pecuniam meam restituat.
+ Reynerus
+ Faciet.
+ Sebastianus
+ Ut ilico faciat.
+ Reynerus
+ Redde huic argentum suum actutum.
+ \edtext{S.}{\Afootnote{Surely this is Quirinus}} Accipe pecuniam.
+ \edtext{R.}{\Afootnote{Sebastianus here.}} Tu cultrum recipe.
+ \edtext{S.}{\Afootnote{Reynerus here.}} Ita fieri decet. Ex talibus initiis saepe nascuntur magnae simultates, etiam inter adultos.
+\endnumbering
+
+ Thoma filius, Vincentia[e] mater.
+ Thoma
+ Mater, quando prandebitur?
+ Vincentia
+ Illico, paululum si expectes modo.
+ Thoma
+ Abeundum est mihi extemplo.
+ Vincentia
+ Quonam, o bone, tam propere?
+ Thoma
+ Quo scholasticum ire decet?
+ Vincentia
+ Nempe ad ludum.
+ Thoma
+ Nempe ad ipsam carnificinam.
+ Vincentia
+ Nondum sonuit prima.
+ Thoma
+ At nos sonitum praevertere decet.
+ Vincentia
+ Quoties per hebdomadem?
+ Thoma
+ Quotidie.
+ Vincentia
+ Qua hora?
+ Thoma
+ Quid quaeritas? Omni hora. 
+ Vincentia
+ Cur ergo tam secure requiescis mane?
+ Thoma
+ Id ego nunquam impune facio.
+ Vincentia
+ Itane verbera magis times a prandio quam a somno?
+ Thoma
+ Quaere qui tibi respondeat. Si mihi non vis dare cibum, impransus abibo.
+ Vincentia
+ Abi quo vis. Nemo est qui detinet te. Si non prandes, vesperi cenabis libentius.
