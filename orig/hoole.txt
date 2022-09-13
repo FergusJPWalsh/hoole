@@ -593,3 +593,169 @@ dialogue.line.speaker (.0)/text (.1)
 10.054.01 Vel matrem, dum tu abeas, soror.
 10.055.00 Cornelia
 10.055.01 Ego abeo, redibit alter.
+11.001.00 Fredericus
+11.001.01 Horsum tu quoque cum hirto capite.
+11.002.00 Erasmus
+11.002.01 Hic sum.
+11.003.00 Fredericus
+11.003.01 Video. Sed unde venis tam sero, tamque incultus.
+11.004.00 Erasmus
+11.004.01 E strato primum, deinde ex nostris aedibus.
+11.005.00 Fredericus
+11.005.01 Quod sero, hoc nunc omitto. Non tu debeas caput pectere antequam venires ad ludum?
+11.006.00 Erasmus
+11.006.01 Non habemus pectinem.
+11.007.00 Fredericus
+11.007.01 Cur non emistis?
+11.008.00 Erasmus
+11.008.01 Parentes dicunt sibi deesse pecuniam.
+11.009.00 Fredericus
+11.009.01 Vendito frumentum ut pecunia suppetat.
+11.010.00 Erasmus
+11.010.01 Non est.
+11.011.00 Fredericus
+11.011.01 Quin rogetis utendum aliunde pectinem?
+11.012.00 Erasmus
+11.012.01 Nemo vult nobis dare commodato.
+11.013.00 Fredericus
+11.013.01 Quamobrem?
+11.014.00 Erasmus
+11.014.01 Plerique omnes habemus capita scabiosa; id vitant (credo) homines.
+11.015.00 Fredericus
+11.015.01 Tot cyathos cervisiae tui parentes exhauriunt, non tantum possunt detrahere gutturi suo ut emant pectinem?
+11.016.00 Erasmus
+11.016.01 Nescio hercle.
+11.017.00 Fredericus
+11.017.01 Aut tu mihi compitor redi ad ludum aut ne prorsus redi.
+11.018.00 Erasmus
+11.018.01 Dicam.
+12.001.00 Godfridus
+12.001.01 Permultos abesse video. Heus custos, circumspecta.
+12.002.00 Hermanus
+12.002.01 Sic est praeceptor.
+12.003.00 Godfridus
+12.003.01 Vide ut omnium qui nunc absunt nomina descripta habeas.
+12.004.00 Hermanus
+12.004.01 In libello?
+12.005.00 Godfridus
+12.005.01 Immo in chartula quam mihi tradas in manum.
+12.006.00 Hermanus
+12.006.01 Quando?
+12.007.00 Godfridus
+12.007.01 Ʋt primum rediero ad ludum.
+12.008.00 Hermanus
+12.008.01 Fiet.
+12.009.00 Godfridus
+12.009.01 Interea curabis, ut mihi lentarum virgarum sint parati fasciculi.
+12.010.00 Hermanus
+12.010.01 Si sim salvus hodie, efficiam ut studiosius conveniatur.
+12.011.00 Godfridus
+12.011.01 Securus esse iubeo, quantum ad virgas attinet.
+12.012.00 Hermanus
+12.012.01 Dicis probe.
+13.001.00 Iacobus
+13.001.01 Plagae te manent, somniator.
+13.002.00 Laurentius
+13.002.01 Quid feci?
+13.003.00 Iacobus
+13.003.01 Quod non adfueris.
+13.004.00 Laurentius
+13.004.01 Ubi?
+13.005.00 Iacobus
+13.005.01 In ludo litterario.
+13.006.00 Laurentius
+13.006.01 Illuc properabam.
+13.007.00 Iacobus
+13.007.01 Sero properas.
+13.008.00 Laurentius
+13.008.01 Qui sic?
+13.009.00 Iacobus
+13.009.01 Hora abiit. Nos dimissi sumus a praeceptore.
+13.010.00 Laurentius
+13.010.01 Tam mane?
+13.011.00 Iacobus
+13.011.01 Quam mane vero? Iamdudum sonuit octava.
+13.012.00 Laurentius
+13.012.01 Num deludis me.
+13.013.00 Iacobus
+13.013.01 Minime vero.
+13.014.00 Laurentius
+13.014.01 Eheu! Dic mihi, nulla fuit mentio mei?
+13.015.00 Iacobus
+13.015.01 Et quidem per magna.
+13.016.00 Laurentius
+13.016.01 Dic amabo.
+13.017.00 Iacobus
+13.017.01 Sic est. Praeceptor universos conscribi iussit.
+13.018.00 Laurentius
+13.018.01 Utros? Praesentesne an absentes?
+13.019.00 Iacobus
+13.019.01 Absentes nimirum.
+13.020.00 Laurentius
+13.020.01 Male habet. Nam si praesentes conscribi iussisset, ego me praeteritum este contenderem.
+13.021.00 Iacobus
+13.021.01 Verum quis notavit?
+13.022.00 Laurentius
+13.022.01 Venantius Gallus.
+13.023.00 Iacobus
+13.023.01 Eho, salvus sum, si verum dicis!
+13.024.00 Laurentius
+13.024.01 Quid gestis?
+13.025.00 Iacobus
+13.025.01 Ille mihi obnoxius est. Adibo, ac deprecabor ut nomen meum dispungat. Non audebit negare.
+13.026.00 Laurentius
+13.026.01 Nullo faciet inductus praemio.
+13.027.00 Iacobus
+13.027.01 Ne dixeris, scio quid mihi pollicitus sit.
+13.028.00 Laurentius
+13.028.01 Vapulabitis ambo, si resciscitat magister.
+13.029.00 Iacobus
+13.029.01 Istud ego diis superis committo.
+Matthaeus
+Expedito virgas et ferulam custos.
+Nestorius
+Sunt in promptu.
+Matthaeus
+Ubi nomina absentium?
+Nestorius
+Hic sunt.
+Matthaeus
+Recita sigillatim omnes.
+Nestorius
+Andreas Faber.
+Ades. Cur non adfuisti hodie?
+Andreas
+Pater iussti me abire in agrum, ut recognoscer em an fossores ibi adessent.
+Venisses ad me petitum copiam abeundi in agrum.
+Non mihi licuit horsum ire, sic instabat pater.
+Dixisses, te non posse abesse a schola sine meo favere.
+Dixi quidem, sed non impetravi ab eo facultatem transcurrendi ad te, ita imperiosus est.
+ Domi habet imperium pater, ego in ludo.
+At domi iussit pater.
+At ego vetui quenquam secus facere, quam hîc volo et iubeo.
+Non tu vis ut parentibus obsequamur?
+Omnino.
+Cur igitur nunc hoc secisse arguor?
+Abi, abi, tempus extrahimus hâc concertatione. Ʋtrisque pareto, quoad fieri potest.
+Cita alium.
+Petrus Pistor.
+Pistor, age, dic quid te detinúerit.
+Equidem surrexi statim post horam quartam, sed illico debui farinam subigere: is labor duravit fere sesqui horam. Postea verò dum lavor, dum aresco, dum induo caligas, et comparo me, abit tempus,
+Dum tu mihi ista sic refer: ordine, perdis tempus.
+Atqui, praeceptor dôctissime, ni tempus hoc pacto perderem, lucrifacerem mihi plagas.
+Omnes est is in excusando argútuii, discendo non item. Abi, recita caeteros.
+ioannes hornius.
+Nempe hoc assidue? alias aliud adfers; Quid vero nunc profers in excusationem tui?
+Heri vesperi, praeceptor optime, multos convivas excepimus.
+Hi desiderunt usque ad mediam noctem, nec mihi licuit batum unguem ab eis discedere. Propcerea non potui evigilare maturiùs. Dixi.
+Cur me quoque inter cateros convivas, non vocasti?
+Transigam apud parentes, uti vocêris non nunquam, si ita vis.
+Spondes id mihi sic facturum?
+Spondeo hercle.
+Vide ne fallas.
+Per me quinem non stabit, quò minùs vocaberis.
+Frugi es adolescens, cura ut sis item studiosus.
+Ita faciam.
+Abscede hinc in locum tuum.
+lúbes me caeteros recitare?
+Minime hoc tempore. Nolo universum gregem fraudare suâ praelectione ob paucorum inertiam. Vetùm hoc memineritis pueri, posthac nequicquam excusabitis absentiam, Quisquis sine meo favore abfuerit, vapulabit.
